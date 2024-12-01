@@ -8,5 +8,3 @@
 - Else in all other cases
 - User wins this round and increase user score by 1
 
-
-
